@@ -46,6 +46,7 @@ Below is a table showing the general statistical measures of all columns
 We use the linear regression model; OLS (ordinary linear squares method)
 ### Checking for variable distribution
 For the variable price, the values were skewed to the left as seen in the image below;
+
 ![image](https://user-images.githubusercontent.com/104424533/177150396-22deef27-8e8f-4a76-95f1-7ab005d516fe.png)
 
 To fix this, by performing log transformation on the data to make it normal.
