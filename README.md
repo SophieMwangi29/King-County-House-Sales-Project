@@ -60,6 +60,8 @@ We also performed a Jarque-Bera test to test for nomarlity. This test yielded od
 We pick the variables with a correlation of 0.75 and above to perform the regression. These are the variable we use; sqft_above, sqft_living+grade, sqft_living15, bathrooms. 
 We perform multiple linear regression on this vs log_price (price transformed).
 Below are the the results
+
+
 ![image](https://user-images.githubusercontent.com/104424533/177153871-77beffe3-3f7a-4579-a4e1-491a48c32c91.png)
 
 
