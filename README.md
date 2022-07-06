@@ -1,6 +1,8 @@
 # King-County-House-Sales-Project
-This project is aimed at helping advice home owners by finding out how home renovations might increase estimated value of their homes and by what amount
-Below is a screenshot that explains what all the columns mean
+This project is aimed at helping advice realtors by finding out how different house features might increase estimated value of the homes. By conducting this project, realtors as well as home buyers will be able to make decisions effectively and avoid overpricing or underpricing a house.
+
+The project aims to solve the issue of overpriced homes. This will then help bring some insights on the ideal homes. It will realtors to understand where to invest and what features to invest in when building a home for sale. This ultimately allows them to maximise on their profits but still have good rapor with potential buyers. The data has features that contribute to the pricing of a home, these features have been highlighted below;
+
 ![image](https://user-images.githubusercontent.com/104424533/176946181-2be67243-0f73-45d6-8c43-b3bff8aab366.png)
 
 # Introduction
